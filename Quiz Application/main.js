@@ -21,6 +21,7 @@ Categories.forEach((e) => {
 });
 
 StartBtn.onclick = function () {
+    document.title = "Choosing The Category";
     chooseCategory();
 };
 
@@ -33,6 +34,7 @@ function fetchQuestions(category) {
     fetchJsonFiles(category)
         .then((response) => response.json())
         .then((data) => {
+            document.title = `Category: ${category.toUpperCase()}`;
             generateQuestions(data);
         })
         .catch((error) =>
