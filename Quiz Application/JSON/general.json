@@ -1,0 +1,130 @@
+{
+    "questions": [
+        {
+            "question": "What is a CPU?",
+            "correctAnswer": "The central processing unit, responsible for executing instructions.",
+            "wrongAnswers": [
+                "A type of storage device.",
+                "A type of software.",
+                "A graphics card."
+            ]
+        },
+        {
+            "question": "What is RAM used for in a PC?",
+            "correctAnswer": "Temporarily stores data that is actively being used by the system.",
+            "wrongAnswers": [
+                "Stores the operating system permanently.",
+                "Handles network connections.",
+                "Runs applications without a hard drive."
+            ]
+        },
+        {
+            "question": "What is the function of the motherboard in a PC?",
+            "correctAnswer": "Holds and connects all the PC’s components together.",
+            "wrongAnswers": [
+                "Provides additional storage.",
+                "Processes all graphical data.",
+                "Displays images on the screen."
+            ]
+        },
+        {
+            "question": "What does a GPU do?",
+            "correctAnswer": "Handles rendering of graphics and video.",
+            "wrongAnswers": [
+                "Manages storage devices.",
+                "Monitors the temperature of the system.",
+                "Generates the system's power."
+            ]
+        },
+        {
+            "question": "What is an operating system?",
+            "correctAnswer": "Software that manages hardware and software resources on a computer.",
+            "wrongAnswers": [
+                "A type of video game.",
+                "A hardware component.",
+                "A program for editing images."
+            ]
+        },
+        {
+            "question": "What is a hard drive used for?",
+            "correctAnswer": "Stores data permanently on the computer.",
+            "wrongAnswers": [
+                "Manages network traffic.",
+                "Processes graphics.",
+                "Monitors system performance."
+            ]
+        },
+        {
+            "question": "What is a power supply unit (PSU) in a PC?",
+            "correctAnswer": "Converts electrical power from the outlet to the correct voltage for the computer.",
+            "wrongAnswers": [
+                "Displays the PC’s output to the monitor.",
+                "Cool down the internal components of the system.",
+                "Transfers data between the CPU and GPU."
+            ]
+        },
+        {
+            "question": "What does a keyboard do?",
+            "correctAnswer": "Allows the user to input data into the computer.",
+            "wrongAnswers": [
+                "Displays images on the screen.",
+                "Transmits wireless signals.",
+                "Houses the computer’s storage."
+            ]
+        },
+        {
+            "question": "What is a monitor used for?",
+            "correctAnswer": "Displays the output from the computer visually.",
+            "wrongAnswers": [
+                "Inputs data from the user.",
+                "Provides additional storage capacity.",
+                "Handles network traffic."
+            ]
+        },
+        {
+            "question": "What is the function of a fan in a PC?",
+            "correctAnswer": "Cools the internal components to prevent overheating.",
+            "wrongAnswers": [
+                "Increases the CPU's processing speed.",
+                "Generates graphics for the display.",
+                "Boosts the sound output of the system."
+            ]
+        },
+        {
+            "question": "What is an SSD?",
+            "correctAnswer": "A solid-state drive, a faster alternative to a traditional hard drive.",
+            "wrongAnswers": [
+                "A software used for backup.",
+                "A type of graphics card.",
+                "A processor that runs programs."
+            ]
+        },
+        {
+            "question": "What does the operating system’s task manager do?",
+            "correctAnswer": "Displays and allows management of running applications and system processes.",
+            "wrongAnswers": [
+                "Shows all available hardware options.",
+                "Monitors and adjusts the display resolution.",
+                "Controls the internet speed."
+            ]
+        },
+        {
+            "question": "What is a Wi-Fi card used for?",
+            "correctAnswer": "Allows the PC to connect wirelessly to a network.",
+            "wrongAnswers": [
+                "Generates graphical outputs.",
+                "Boosts the computer's storage capacity.",
+                "Processes data for the CPU."
+            ]
+        },
+        {
+            "question": "What is the function of an optical drive?",
+            "correctAnswer": "Reads and writes data on optical discs like CDs or DVDs.",
+            "wrongAnswers": [
+                "Increases the system's memory.",
+                "Processes data for high-performance gaming.",
+                "Transmits signals to external monitors."
+            ]
+        }
+    ]
+}

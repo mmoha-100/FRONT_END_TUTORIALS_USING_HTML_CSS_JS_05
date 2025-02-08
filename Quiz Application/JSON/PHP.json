@@ -1,0 +1,130 @@
+{
+    "questions": [
+        {
+            "question": "What does '<?php' do in PHP?",
+            "correctAnswer": "'<?php' is used to start a PHP block of code.",
+            "wrongAnswers": [
+                "'<?php' is used to declare a variable.",
+                "'<?php' is used to close a PHP block of code.",
+                "'<?php' is used to create a function."
+            ]
+        },
+        {
+            "question": "What is the purpose of 'echo' in PHP?",
+            "correctAnswer": "'echo' is used to output data to the browser.",
+            "wrongAnswers": [
+                "'echo' is used to define a function.",
+                "'echo' is used to declare a variable.",
+                "'echo' is used to stop script execution."
+            ]
+        },
+        {
+            "question": "How do you define a variable in PHP?",
+            "correctAnswer": "A variable in PHP is defined by using the '$' symbol followed by a variable name.",
+            "wrongAnswers": [
+                "A variable in PHP is defined using the 'var' keyword.",
+                "A variable in PHP is defined with the 'let' keyword.",
+                "A variable in PHP is defined by using the 'define' keyword."
+            ]
+        },
+        {
+            "question": "What is an array in PHP?",
+            "correctAnswer": "An array in PHP is a collection of values stored in a single variable.",
+            "wrongAnswers": [
+                "An array in PHP is a type of function.",
+                "An array in PHP is a collection of key-value pairs.",
+                "An array in PHP is a type of loop."
+            ]
+        },
+        {
+            "question": "What is the purpose of 'isset()' in PHP?",
+            "correctAnswer": "'isset()' checks if a variable is set and is not null.",
+            "wrongAnswers": [
+                "'isset()' checks if a variable is defined globally.",
+                "'isset()' returns the value of a variable.",
+                "'isset()' defines a constant."
+            ]
+        },
+        {
+            "question": "What does 'include' do in PHP?",
+            "correctAnswer": "'include' is used to include the contents of one PHP file into another.",
+            "wrongAnswers": [
+                "'include' creates a new variable.",
+                "'include' defines a class.",
+                "'include' is used for creating an array."
+            ]
+        },
+        {
+            "question": "What does 'return' do in PHP?",
+            "correctAnswer": "'return' is used to return a value from a function.",
+            "wrongAnswers": [
+                "'return' is used to stop the execution of a script.",
+                "'return' defines an array.",
+                "'return' creates a new function."
+            ]
+        },
+        {
+            "question": "What is a function in PHP?",
+            "correctAnswer": "A function in PHP is a block of code that can be executed when called.",
+            "wrongAnswers": [
+                "A function in PHP is a type of loop.",
+                "A function in PHP is a variable.",
+                "A function in PHP is a conditional statement."
+            ]
+        },
+        {
+            "question": "How do you define a constant in PHP?",
+            "correctAnswer": "A constant is defined using the 'define()' function in PHP.",
+            "wrongAnswers": [
+                "A constant is defined with the 'const' keyword in PHP.",
+                "A constant is defined using the 'constant()' function.",
+                "A constant is defined with the 'set()' function."
+            ]
+        },
+        {
+            "question": "What does '$_GET' do in PHP?",
+            "correctAnswer": "'$_GET' is used to collect form data after submitting an HTML form using the GET method.",
+            "wrongAnswers": [
+                "'$_GET' is used to send data to a database.",
+                "'$_GET' stores data in cookies.",
+                "'$_GET' is used to validate form data."
+            ]
+        },
+        {
+            "question": "What is the purpose of '$_POST' in PHP?",
+            "correctAnswer": "'$_POST' is used to collect form data after submitting an HTML form using the POST method.",
+            "wrongAnswers": [
+                "'$_POST' is used to send data to a database.",
+                "'$_POST' is used to create arrays in PHP.",
+                "'$_POST' is used to define a constant."
+            ]
+        },
+        {
+            "question": "What is a session in PHP?",
+            "correctAnswer": "A session is used to store information (variables) to be used across multiple pages.",
+            "wrongAnswers": [
+                "A session is a type of cookie in PHP.",
+                "A session is used to define arrays.",
+                "A session stores data only temporarily on the client side."
+            ]
+        },
+        {
+            "question": "What does 'foreach' do in PHP?",
+            "correctAnswer": "'foreach' is used to iterate over elements in an array.",
+            "wrongAnswers": [
+                "'foreach' defines a function.",
+                "'foreach' creates a loop to define a variable.",
+                "'foreach' is used to return values."
+            ]
+        },
+        {
+            "question": "What is the 'mysqli' extension in PHP?",
+            "correctAnswer": "'mysqli' is used to interact with a MySQL database from PHP.",
+            "wrongAnswers": [
+                "'mysqli' is used to create a file.",
+                "'mysqli' is a function for performing string operations.",
+                "'mysqli' is used to manage sessions in PHP."
+            ]
+        }
+    ]
+}

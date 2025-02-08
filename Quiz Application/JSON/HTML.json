@@ -1,0 +1,130 @@
+{
+    "questions": [
+        {
+            "question": "What is the &lt;h1&gt; tag used for?",
+            "correctAnswer": "Defines the main heading of a page.",
+            "wrongAnswers": [
+                "Defines a section of the page.",
+                "Specifies a hyperlink.",
+                "Embeds an image."
+            ]
+        },
+        {
+            "question": "What does the &lt;link> tag do?",
+            "correctAnswer": "Links external resources, typically stylesheets.",
+            "wrongAnswers": [
+                "Defines a section of the page.",
+                "Displays an image on the page.",
+                "Embeds a video."
+            ]
+        },
+        {
+            "question": "What is the &lt;script&gt tag used for?",
+            "correctAnswer": "Inserts JavaScript into an HTML document.",
+            "wrongAnswers": [
+                "Links external resources.",
+                "Specifies a table layout.",
+                "Displays text in bold."
+            ]
+        },
+        {
+            "question": "What is the &lt;style&gt; tag used for?",
+            "correctAnswer": "Defines internal CSS styles.",
+            "wrongAnswers": [
+                "Embeds JavaScript functions.",
+                "Specifies a hyperlink.",
+                "Displays images."
+            ]
+        },
+        {
+            "question": "What is the &lt;meta&gt; tag used for?",
+            "correctAnswer": "Provides metadata like character encoding.",
+            "wrongAnswers": [
+                "Displays images on the page.",
+                "Creates a navigation menu.",
+                "Links external stylesheets."
+            ]
+        },
+        {
+            "question": "What is the &lt;footer&gt; tag used for?",
+            "correctAnswer": "Defines the footer of a webpage or section.",
+            "wrongAnswers": [
+                "Embeds video content.",
+                "Displays navigation links.",
+                "Creates a table layout."
+            ]
+        },
+        {
+            "question": "What is the &lt;header&gt; tag used for?",
+            "correctAnswer": "Defines the header of a webpage or section.",
+            "wrongAnswers": [
+                "Displays a list of items.",
+                "Specifies a hyperlink.",
+                "Links an external script."
+            ]
+        },
+        {
+            "question": "What is the &lt;section&gt; tag used for?",
+            "correctAnswer": "Groups related content in a section.",
+            "wrongAnswers": [
+                "Defines a footer.",
+                "Creates a table.",
+                "Links an external file."
+            ]
+        },
+        {
+            "question": "What does the &lt;nav&gt; tag do?",
+            "correctAnswer": "Defines navigation links for the site.",
+            "wrongAnswers": [
+                "Creates a footer section.",
+                "Groups related content.",
+                "Specifies a block of code."
+            ]
+        },
+        {
+            "question": "What does the &lt;address&gt; tag do?",
+            "correctAnswer": "Specifies contact information.",
+            "wrongAnswers": [
+                "Defines a header.",
+                "Embeds a video.",
+                "Creates a link to another webpage."
+            ]
+        },
+        {
+            "question": "What is the &lt;blockquote&gt; tag used for?",
+            "correctAnswer": "Defines a block of quoted text.",
+            "wrongAnswers": [
+                "Specifies a hyperlink.",
+                "Creates a table.",
+                "Embeds a video."
+            ]
+        },
+        {
+            "question": "What is the &lt;code&gt; tag used for?",
+            "correctAnswer": "Displays code snippets in a monospaced font.",
+            "wrongAnswers": [
+                "Creates a list.",
+                "Links an external file.",
+                "Specifies a font color."
+            ]
+        },
+        {
+            "question": "What is the &lt;progress&gt; tag used for?",
+            "correctAnswer": "Shows progress of a task.",
+            "wrongAnswers": [
+                "Displays an image.",
+                "Creates a hyperlink.",
+                "Defines a header."
+            ]
+        },
+        {
+            "question": "What does the &lt;sup&gt; tag do?",
+            "correctAnswer": "Displays text as superscript.",
+            "wrongAnswers": [
+                "Displays text as subscript.",
+                "Specifies a list item.",
+                "Embeds audio."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Home</title>
+        <link rel="stylesheet" href="css/style.css" />
+        <link rel="stylesheet" href="css/normalize.css" />
+        <link rel="stylesheet" href="css/all.min.css" />
+    </head>
+    <body>
+        <div class="header">
+            <div class="name">TechTonic</div>
+        </div>
+        <div class="container">
+            <div class="page starting-page">
+                <p>
+                    Welcome to <span class="name">TechTonic</span> Quiz! 🎉
+                    Ready to test your knowledge?🧠
+                </p>
+                <button class="btn start-quiz">Let's Get Started!</button>
+            </div>
+            <div class="page choosing-category d-none">
+                <h2>Choose A Category:</h2>
+                <div class="choices">
+                    <button class="btn general">General</button>
+                    <button class="btn html">HTML</button>
+                    <button class="btn css">CSS</button>
+                    <button class="btn js">JavaScript</button>
+                    <button class="btn php">PHP</button>
+                    <button class="btn python">Python</button>
+                </div>
+            </div>
+        </div>
+        <audio src="media/Correct.mp3" class="yes"></audio>
+        <!-- <audio src="media/Incorrect.mp3" class="no"></audio> -->
+        <script src="main.js"></script>
+    </body>
+</html>

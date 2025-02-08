@@ -1,0 +1,130 @@
+{
+    "questions": [
+        {
+            "question": "What does CSS stand for?",
+            "correctAnswer": "CSS stands for Cascading Style Sheets.",
+            "wrongAnswers": [
+                "CSS stands for Cascading Script Syntax.",
+                "CSS stands for Computer Style Sheets.",
+                "CSS stands for Common Style Sheets."
+            ]
+        },
+        {
+            "question": "What is the purpose of CSS?",
+            "correctAnswer": "CSS is used to style and layout web pages.",
+            "wrongAnswers": [
+                "CSS is used to create dynamic web content.",
+                "CSS is used to define HTML structure.",
+                "CSS is used to link external resources."
+            ]
+        },
+        {
+            "question": "How do you apply CSS to an HTML document?",
+            "correctAnswer": "CSS can be applied via inline styles, internal styles, or external stylesheets.",
+            "wrongAnswers": [
+                "CSS can only be applied using inline styles.",
+                "CSS is applied by directly editing the HTML content.",
+                "CSS is applied through JavaScript only."
+            ]
+        },
+        {
+            "question": "What is a CSS selector?",
+            "correctAnswer": "A CSS selector targets HTML elements to apply styles.",
+            "wrongAnswers": [
+                "A CSS selector is a function in JavaScript.",
+                "A CSS selector is used to group HTML elements together.",
+                "A CSS selector targets a CSS property."
+            ]
+        },
+        {
+            "question": "What does the 'color' property do in CSS?",
+            "correctAnswer": "The 'color' property sets the text color.",
+            "wrongAnswers": [
+                "The 'color' property sets the background color.",
+                "The 'color' property defines the font size.",
+                "The 'color' property specifies the border color."
+            ]
+        },
+        {
+            "question": "What does the 'background-color' property do?",
+            "correctAnswer": "It sets the background color of an element.",
+            "wrongAnswers": [
+                "It defines the font color of an element.",
+                "It sets the color of the text inside the element.",
+                "It applies a shadow effect to an element."
+            ]
+        },
+        {
+            "question": "What is the 'font-size' property used for?",
+            "correctAnswer": "It defines the size of the text.",
+            "wrongAnswers": [
+                "It defines the font family used in the text.",
+                "It controls the alignment of the text.",
+                "It specifies the color of the text."
+            ]
+        },
+        {
+            "question": "What does the 'margin' property do?",
+            "correctAnswer": "It sets space around an element's outside.",
+            "wrongAnswers": [
+                "It sets the space inside an element's content.",
+                "It defines the height of an element.",
+                "It sets the font size of the text inside an element."
+            ]
+        },
+        {
+            "question": "What is the 'padding' property used for?",
+            "correctAnswer": "It sets space inside an element, between its content and border.",
+            "wrongAnswers": [
+                "It defines space outside an element.",
+                "It sets the border style of an element.",
+                "It adjusts the font size inside an element."
+            ]
+        },
+        {
+            "question": "What is the difference between 'class' and 'id' selectors?",
+            "correctAnswer": "'class' is used for multiple elements, while 'id' is unique to one element.",
+            "wrongAnswers": [
+                "'class' is used only for layout, 'id' is used for styling.",
+                "'class' is used for text styling, 'id' for background color.",
+                "'class' is for internal elements, 'id' is for external elements."
+            ]
+        },
+        {
+            "question": "What does the 'display' property do?",
+            "correctAnswer": "It defines how an element is displayed (e.g., block, inline).",
+            "wrongAnswers": [
+                "It sets the height of an element.",
+                "It adjusts the background color of an element.",
+                "It defines the visibility of an element."
+            ]
+        },
+        {
+            "question": "What is the 'position' property used for?",
+            "correctAnswer": "It controls the positioning of an element (e.g., static, relative, absolute).",
+            "wrongAnswers": [
+                "It sets the width of an element.",
+                "It defines the background color of an element.",
+                "It controls the opacity of an element."
+            ]
+        },
+        {
+            "question": "What is the 'float' property in CSS?",
+            "correctAnswer": "It allows an element to be floated to the left or right.",
+            "wrongAnswers": [
+                "It specifies the font size of an element.",
+                "It adjusts the margin of an element.",
+                "It defines the text color of an element."
+            ]
+        },
+        {
+            "question": "What does the 'z-index' property do?",
+            "correctAnswer": "It sets the stacking order of elements (higher value means higher stacking).",
+            "wrongAnswers": [
+                "It defines the width of an element.",
+                "It sets the background transparency of an element.",
+                "It controls the animation speed of an element."
+            ]
+        }
+    ]
+}

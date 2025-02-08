@@ -1,0 +1,197 @@
+/* 
+    The Comments Are Not That Important, But To Make It Fixable In Big Projects;
+    So In This Case To Make CSS More Beautiful, Organized And Maybe Some Tricks.
+*/
+
+/* Start Vars */
+:root {
+    --primary-color: #16c9b2;
+    --primary-color-hover: #14786b;
+    --main-transition-duration: 0.5s;
+}
+/* End Variables */
+
+/* Start Global Rules */
+* {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #eee;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+/* Small Screens */
+@media (min-width: 768px) {
+    .container {
+        width: 750px;
+    }
+}
+
+/* Medium Screens */
+@media (min-width: 992px) {
+    .container {
+        width: 970px;
+    }
+}
+
+/* Large Screens */
+@media (min-width: 1200px) {
+    .container {
+        width: 1170px;
+    }
+}
+/* End Global Rules */
+
+/* DRY Reasons: */
+.page {
+    width: 85%;
+    height: 220px;
+    margin: 20px auto;
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    position: absolute; /* Use absolute positioning */
+    top: 45%; /* Center vertically */
+    left: 50%; /* Center horizontally */
+    transform: translate(-50%, -50%); /* Adjust the position */
+    height: 320px;
+    transition: var(--main-transition-duration);
+}
+
+/* Start Components */
+.d-none {
+    display: none;
+}
+
+.name {
+    color: var(--primary-color);
+    font-weight: bold;
+}
+
+.btn {
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background-color: var(--primary-color);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 6px;
+    transition: var(--main-transition-duration);
+    font-weight: bold;
+}
+
+.btn:hover {
+    background-color: var(--primary-color-hover);
+}
+/* End Components */
+
+/* Start Header */
+.header {
+    text-align: left;
+    background-color: white;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    max-width: 100%;
+    font-size: 25px;
+}
+/* End Header */
+
+/* Start Home Page */
+.starting-page p {
+    font-size: 25px;
+    width: 100%;
+}
+/* End Home Page */
+
+/* Start Choose Category */
+.choosing-category h2 {
+    width: 100%;
+    margin: 0;
+}
+
+.choosing-category .choices {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 70%;
+}
+/* End Choose Category */
+
+/* Start Question Boxes */
+.questions-box p {
+    width: 100%;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.questions-box .choices {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    text-align: left;
+    font-size: 20px;
+}
+
+.questions-box .choices form input {
+    margin-right: 10px;
+}
+
+.questions-box .choices form > div:not(:last-child) {
+    margin-bottom: 20px;
+}
+
+#question-0 > div > form > div > label,
+#question-0 > div > form > div > input {
+    cursor: pointer;
+}
+/* End Question Boxes */
+p.result {
+    width: 100%;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0;
+}
+
+.bad,
+.good {
+    font-weight: bold;
+    width: 100%;
+    font-size: 30px;
+}
+
+.bad {
+    color: red;
+}
+.good {
+    color: green;
+}

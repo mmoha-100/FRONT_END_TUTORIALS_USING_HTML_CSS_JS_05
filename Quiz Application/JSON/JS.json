@@ -1,0 +1,130 @@
+{
+    "questions": [
+        {
+            "question": "What does 'var' do in JavaScript?",
+            "correctAnswer": "'var' is used to declare a variable in JavaScript.",
+            "wrongAnswers": [
+                "'var' is used to define a function.",
+                "'var' is used to create a class.",
+                "'var' is used to set a constant."
+            ]
+        },
+        {
+            "question": "What is the purpose of 'console.log()' in JavaScript?",
+            "correctAnswer": "'console.log()' is used to output information to the console.",
+            "wrongAnswers": [
+                "'console.log()' is used to create alerts in the browser.",
+                "'console.log()' is used to stop the execution of code.",
+                "'console.log()' is used to define an object."
+            ]
+        },
+        {
+            "question": "How do you define a function in JavaScript?",
+            "correctAnswer": "A function is defined using the 'function' keyword.",
+            "wrongAnswers": [
+                "A function is defined using the 'define' keyword.",
+                "A function is defined using the 'func' keyword.",
+                "A function is defined using the 'fn' keyword."
+            ]
+        },
+        {
+            "question": "What does 'return' do in JavaScript?",
+            "correctAnswer": "'return' is used to return a value from a function.",
+            "wrongAnswers": [
+                "'return' stops the execution of a loop.",
+                "'return' defines a global variable.",
+                "'return' is used to log information to the console."
+            ]
+        },
+        {
+            "question": "What is a 'for' loop used for in JavaScript?",
+            "correctAnswer": "A 'for' loop is used to execute a block of code multiple times.",
+            "wrongAnswers": [
+                "A 'for' loop is used to declare a variable.",
+                "A 'for' loop is used to define a class.",
+                "A 'for' loop is used to define a function."
+            ]
+        },
+        {
+            "question": "What is an object in JavaScript?",
+            "correctAnswer": "An object is a collection of key-value pairs.",
+            "wrongAnswers": [
+                "An object is a function in JavaScript.",
+                "An object is a type of array.",
+                "An object is a primitive data type."
+            ]
+        },
+        {
+            "question": "What is an array in JavaScript?",
+            "correctAnswer": "An array is a collection of values stored in a single variable.",
+            "wrongAnswers": [
+                "An array is a function that performs calculations.",
+                "An array is a type of object.",
+                "An array is a variable that stores strings only."
+            ]
+        },
+        {
+            "question": "What is the 'this' keyword in JavaScript?",
+            "correctAnswer": "'this' refers to the current object or context in which the function is executing.",
+            "wrongAnswers": [
+                "'this' refers to the global object in all cases.",
+                "'this' is used to declare a variable.",
+                "'this' is used to define a class."
+            ]
+        },
+        {
+            "question": "What does '=== ' do in JavaScript?",
+            "correctAnswer": "'===' checks both value and type for equality in JavaScript.",
+            "wrongAnswers": [
+                "'===' checks for loose equality (only value).",
+                "'===' is used to define a function.",
+                "'===' is used to define a class."
+            ]
+        },
+        {
+            "question": "What is the purpose of the 'let' keyword in JavaScript?",
+            "correctAnswer": "'let' is used to declare variables with block scope.",
+            "wrongAnswers": [
+                "'let' is used to define a constant variable.",
+                "'let' is used to declare a function.",
+                "'let' is used to create an object."
+            ]
+        },
+        {
+            "question": "What is an event listener in JavaScript?",
+            "correctAnswer": "An event listener is a function that waits for an event to occur on an element.",
+            "wrongAnswers": [
+                "An event listener defines a class in JavaScript.",
+                "An event listener is used to declare a function.",
+                "An event listener creates an array."
+            ]
+        },
+        {
+            "question": "What does the 'setInterval()' function do in JavaScript?",
+            "correctAnswer": "'setInterval()' repeatedly calls a function at specified intervals.",
+            "wrongAnswers": [
+                "'setInterval()' calls a function only once.",
+                "'setInterval()' stops the execution of a function.",
+                "'setInterval()' defines a loop."
+            ]
+        },
+        {
+            "question": "What does 'JSON.stringify()' do in JavaScript?",
+            "correctAnswer": "'JSON.stringify()' converts a JavaScript object into a JSON string.",
+            "wrongAnswers": [
+                "'JSON.stringify()' converts a JSON string into an object.",
+                "'JSON.stringify()' defines an object.",
+                "'JSON.stringify()' is used to display an alert."
+            ]
+        },
+        {
+            "question": "What is 'localStorage' in JavaScript?",
+            "correctAnswer": "'localStorage' is used to store data in the browser persistently.",
+            "wrongAnswers": [
+                "'localStorage' is used to store cookies in the browser.",
+                "'localStorage' is a function to create objects.",
+                "'localStorage' is used for server-side storage."
+            ]
+        }
+    ]
+}

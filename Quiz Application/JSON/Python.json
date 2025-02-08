@@ -1,0 +1,130 @@
+{
+    "questions": [
+        {
+            "question": "What does 'def' do in Python?",
+            "correctAnswer": "'def' is used to define a function in Python.",
+            "wrongAnswers": [
+                "'def' is used to create a variable.",
+                "'def' is used to define a class.",
+                "'def' is used to import a module."
+            ]
+        },
+        {
+            "question": "What is the purpose of 'print()' in Python?",
+            "correctAnswer": "'print()' is used to output information to the console.",
+            "wrongAnswers": [
+                "'print()' is used to define a string.",
+                "'print()' is used to stop a loop.",
+                "'print()' is used to create a variable."
+            ]
+        },
+        {
+            "question": "How do you define a variable in Python?",
+            "correctAnswer": "A variable is defined by assigning a value to a name.",
+            "wrongAnswers": [
+                "A variable is defined using the 'var' keyword.",
+                "A variable is defined using the 'let' keyword.",
+                "A variable is defined by using 'define' keyword."
+            ]
+        },
+        {
+            "question": "What is a list in Python?",
+            "correctAnswer": "A list is a collection of items in a particular order.",
+            "wrongAnswers": [
+                "A list is a type of function in Python.",
+                "A list is a dictionary of key-value pairs.",
+                "A list is a special type of loop."
+            ]
+        },
+        {
+            "question": "What is a tuple in Python?",
+            "correctAnswer": "A tuple is an immutable ordered collection of elements.",
+            "wrongAnswers": [
+                "A tuple is a type of variable in Python.",
+                "A tuple is a mutable collection like a list.",
+                "A tuple is a function that performs calculations."
+            ]
+        },
+        {
+            "question": "What is the purpose of 'if' statements in Python?",
+            "correctAnswer": "'if' statements are used for conditional execution based on a boolean expression.",
+            "wrongAnswers": [
+                "'if' statements are used to create loops.",
+                "'if' statements are used to define classes.",
+                "'if' statements are used to declare functions."
+            ]
+        },
+        {
+            "question": "What does 'len()' do in Python?",
+            "correctAnswer": "'len()' returns the length (number of elements) of an object.",
+            "wrongAnswers": [
+                "'len()' returns the type of an object.",
+                "'len()' checks if an object exists.",
+                "'len()' returns the size of an object in bytes."
+            ]
+        },
+        {
+            "question": "What is a dictionary in Python?",
+            "correctAnswer": "A dictionary is a collection of key-value pairs.",
+            "wrongAnswers": [
+                "A dictionary is a type of list in Python.",
+                "A dictionary is a function in Python.",
+                "A dictionary is a loop structure in Python."
+            ]
+        },
+        {
+            "question": "What does 'break' do in Python?",
+            "correctAnswer": "'break' is used to exit from a loop prematurely.",
+            "wrongAnswers": [
+                "'break' is used to start a loop.",
+                "'break' is used to declare a variable.",
+                "'break' is used to define a function."
+            ]
+        },
+        {
+            "question": "What does 'continue' do in Python?",
+            "correctAnswer": "'continue' is used to skip the current iteration of a loop and continue with the next one.",
+            "wrongAnswers": [
+                "'continue' is used to exit a loop.",
+                "'continue' is used to create a function.",
+                "'continue' is used to define a class."
+            ]
+        },
+        {
+            "question": "What is a function argument in Python?",
+            "correctAnswer": "A function argument is a value passed to a function when it is called.",
+            "wrongAnswers": [
+                "A function argument is a variable inside a class.",
+                "A function argument is used to define loops.",
+                "A function argument is a value returned from a function."
+            ]
+        },
+        {
+            "question": "What does 'import' do in Python?",
+            "correctAnswer": "'import' is used to include external libraries or modules into your Python program.",
+            "wrongAnswers": [
+                "'import' is used to define a function.",
+                "'import' is used to create a class.",
+                "'import' is used to execute a program."
+            ]
+        },
+        {
+            "question": "What is the 'range()' function in Python?",
+            "correctAnswer": "'range()' generates a sequence of numbers, often used in loops.",
+            "wrongAnswers": [
+                "'range()' defines a list of items.",
+                "'range()' generates a random number.",
+                "'range()' defines a tuple of values."
+            ]
+        },
+        {
+            "question": "What does 'is' do in Python?",
+            "correctAnswer": "'is' checks if two variables point to the same object in memory.",
+            "wrongAnswers": [
+                "'is' checks for equality of values between two variables.",
+                "'is' is used to define a class.",
+                "'is' is used to check if a variable exists."
+            ]
+        }
+    ]
+}
